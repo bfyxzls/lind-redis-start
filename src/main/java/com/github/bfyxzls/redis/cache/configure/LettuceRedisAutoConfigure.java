@@ -1,10 +1,10 @@
-package com.lind.redis.cache.configure;
+package com.github.bfyxzls.redis.cache.configure;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lind.redis.cache.properties.LettuceRedisProperties;
-import com.lind.redis.cache.service.RedisService;
+import com.github.bfyxzls.redis.cache.properties.LettuceRedisProperties;
+import com.github.bfyxzls.redis.cache.service.RedisService;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;

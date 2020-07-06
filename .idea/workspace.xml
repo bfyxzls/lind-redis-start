@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c9067c-06a3-42a8-b873-3a766ad3e82f" name="Default Changelist" comment="" />
+    <list default="true" id="02c9067c-06a3-42a8-b873-3a766ad3e82f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lind/redis/cache/configure/LettuceRedisAutoConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bfyxzls/redis/cache/configure/LettuceRedisAutoConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lind/redis/cache/properties/LettuceRedisProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bfyxzls/redis/cache/properties/LettuceRedisProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lind/redis/cache/service/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/bfyxzls/redis/cache/service/RedisService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +25,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1eIeCEGkyTQExc809iOjO4lgRr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -44,11 +54,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594013404413</updated>
-      <workItem from="1594013405770" duration="499000" />
+      <workItem from="1594013405770" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594014245114">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="703" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1594014245114" />
+    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1594014239882">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1594014239882" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1594015630532">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1594015630532" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1594015630532">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1594015630532" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1594015630532">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1594015630532" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1594015630532">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1594015630532" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1594014658055">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1594014658055" />
   </component>
 </project>
